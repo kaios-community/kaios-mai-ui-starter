@@ -1,0 +1,27 @@
+{
+  "id": "kaios-mai-ui-starter",
+  "name": "kaios-mai-ui-starter",
+  "description": "KaiOS starter app using Preact",
+  "version": "1.0.0",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/assets/icons/icon_128.png",
+    "112": "/assets/icons/icon_112.png",
+    "56": "/assets/icons/icon_56.png"
+  },
+  "theme_color": "#7aa86c",
+  "developer": {
+    "name": "Garrett Downs",
+    "url": "https://garrettdowns.com"
+  },
+  "type": "privileged",
+  "permissions": {},
+  "locales": {
+    "en-US": {
+      "name": "kaios-mai-ui-starter",
+      "subtitle": "KaiOS starter app using Preact",
+      "description": "KaiOS starter app using Preact"
+    }
+  },
+  "default_locale": "en-US"
+}

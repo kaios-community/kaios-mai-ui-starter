@@ -1,0 +1,9 @@
+{
+  "name": "kaios-mai-ui-starter",
+  "short_name": "kaios-mai-ui-starter",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff",
+  "theme_color": "#ae32a2"
+}
